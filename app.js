@@ -3,7 +3,7 @@ const app = express()
 const port = 10450
 
 app.get('/', (req, res) => {
-  res.send('BIENVENIDO A MI APP - SOY ADRIAN CORONEL MENDOZA')
+  res.send('BIENVENIDO A MI APP - SOY MIKHAEL TORRES')
 })
 
 app.get('/clientes', (req, res) => {
